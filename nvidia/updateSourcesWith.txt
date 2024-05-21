@@ -1,0 +1,2 @@
+# Debian Bookworm
+deb http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
